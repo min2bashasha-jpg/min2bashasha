@@ -16,11 +16,11 @@
 
 # ◈ 01. PLAYER INFORMATION
 
-Every creator has a world of their own.
+**Every creator has a world of their own.**
 
-CATEGORY
+**CATEGORY**
 
-INFORMATION
+**INFORMATION**
 
 **플레이어**
 
