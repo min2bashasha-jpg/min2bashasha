@@ -1,7 +1,9 @@
 
 
 # 🎮 PLAYER PROFILE : 전태민
-
+<p align="center">
+  <img src="이미지_URL" width="100%" alt="TAEMIN'S WORLD"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=58C9B9&center=true&vCenter=true&width=600&lines=HELLO%2C+PLAYER!;WELCOME+TO+MY+WORLD!" />
 </p>
