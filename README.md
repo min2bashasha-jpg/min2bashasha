@@ -2,6 +2,9 @@
 
 # 🎮 PLAYER PROFILE : 전태민
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:000000&height=200&section=header&text=✦%20TAEMIN'S%20WORLD%20✦&fontSize=45&fontColor=58C9B9&animation=fadeIn&fontAlignY=50" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=58C9B9&center=true&vCenter=true&width=600&lines=HELLO%2C+PLAYER!;WELCOME+TO+MY+WORLD!" />
 </p>
 
@@ -10,7 +13,7 @@
 ## 👤 소개
 
 - 🎮 **전공** : 게임콘텐츠
-- 🎨 **취미** : 그림 그리기, 무언가 직접 만들기
+- 🎨 **취미** : 그림 그리기, 무언가 직접 만들기, 애니 시청
 - 💡 **관심 분야** : 게임 기획, 캐릭터 디자인, 창작 활동
 
 ---
@@ -31,10 +34,6 @@
 <p align="center">
   <i>작은 기록들이 모여 나만의 세계가 된다.</i>
 </p>
----
-
-## 💬 TODAY'S MESSAGE
-
 
 ---
 
