@@ -3,11 +3,7 @@
 # 🎮 PLAYER PROFILE : 전태민
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=200&section=header&text=TAEMIN's%20WORLD&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=GAME%20CREATOR%20LOADING...&descAlignY=65&descSize=15" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=59D6C5&center=true&vCenter=true&width=500&lines=HELLO%2C+PLAYER!;WELCOME+TO+MY+WORLD!;LET'S+MAKE+SOMETHING+FUN!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=58C9B9&center=true&vCenter=true&width=600&lines=HELLO%2C+PLAYER!;WELCOME+TO+MY+WORLD!" />
 </p>
 
 ---
@@ -55,16 +51,6 @@
 
 ## 💬 TODAY'S MESSAGE
 
-```text
-╔══════════════════════════════════╗
-║                                  ║
-║  "오늘 할 일은 내일도 할 수 있다.║
-║   그래도 일단 오늘 한번 해보자.."║
-║                                  ║
-║          - PLAYER TAEMIN -       ║
-║                                  ║
-╚══════════════════════════════════╝
-```
 
 ---
 
@@ -73,5 +59,5 @@
 </p>
 
 <p align="center">
-  🎮 <b>GAME OVER?</b> NO! IT'S JUST THE BEGINNING.
+  🎮 **GAME OVER? NO! IT'S JUST THE BEGINNING.**
 </p>
