@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/STATUS-CREATING-58C9B9?style=flat-square&labelColor=0D1117" />
 </p>
 
-◈ 01. PLAYER INFORMATION
+# ◈ 01. PLAYER INFORMATION
 
 Every creator has a world of their own.
 
@@ -22,25 +22,22 @@ CATEGORY
 
 INFORMATION
 
-PLAYER
+# 플레이어
 
 전태민
 
-MAJOR
+# 전공
 
 게임콘텐츠
 
-HOBBY
+# 취미
 
 그림 그리기 · 직접 만들기 · 애니메이션 시청
 
-INTEREST
-
-게임 기획 · 캐릭터 디자인 · 창작 활동
 
 <br>
 
-◈ 02. MY INTERESTS
+# ◈ 02. MY INTERESTS
 
 <p align="center">
   <img src="https://img.shields.io/badge/GAME_DESIGN-1A3438?style=for-the-badge&logo=gamepad&logoColor=58C9B9" />
@@ -52,7 +49,7 @@ INTEREST
   <i>Ideas become designs. Designs become worlds.</i>
 </p>
 
-◈ 03. QUEST LOG
+# ◈ 03. QUEST LOG
 
 CURRENT QUEST : CREATE SOMETHING NEW
 
@@ -70,7 +67,7 @@ CURRENT QUEST : CREATE SOMETHING NEW
   <sub>MISSION PROGRESS : ALWAYS MOVING FORWARD</sub>
 </p>
 
-◈ 04. CREATIVE SPACE
+# ◈ 04. CREATIVE SPACE
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:142B32,100:0D1117&height=100&section=header&text=IMAGINATION%20%3E%20LIMITS&fontSize=22&fontColor=58C9B9&fontAlignY=55" width="100%" />
